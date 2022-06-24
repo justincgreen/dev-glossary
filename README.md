@@ -1,5 +1,5 @@
 # Dev-Glossary
-Glossary of dev related terms and topics (mostly front-end :stuck_out_tongue_winking_eye:)
+#### Glossary of dev related terms and topics (mostly front-end :stuck_out_tongue_winking_eye:)
 ---
 ## Advanced Custom Fields(ACF)
 | Topic | Description | Link |
