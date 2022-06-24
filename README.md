@@ -19,5 +19,5 @@
 | Topic | Description | Link |
 | ----------- | ----------- | ----------- |
 | var_dump() | Dumps information about a variable. | [source](https://www.php.net/manual/en/function.var-dump.php) |
-| <?= ?> | Echo shorthand. | [source](https://softhunt.net/php-echo-shorthand-with-code-example/) |
+| `<?= ?>` | Echo shorthand. | [source](https://softhunt.net/php-echo-shorthand-with-code-example/) |
 ---
