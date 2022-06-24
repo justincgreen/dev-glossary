@@ -15,3 +15,8 @@
 | node_modules | Cache for the external modules that your project depends upon. | [source](https://stackoverflow.com/a/63294579) |
 | package.json & package.lock.json | Differences between package.json and package.lock.json and their needs in node js. | [source](https://www.geeksforgeeks.org/difference-between-package-json-and-package-lock-json-files/) |
 ---
+## PHP
+| Topic | Description | Link |
+| ----------- | ----------- | ----------- |
+| var_dump() | Dumps information about a variable. | [source](https://www.php.net/manual/en/function.var-dump.php) |
+---
