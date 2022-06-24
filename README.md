@@ -2,9 +2,9 @@
 *Glossary of dev related terms and topics*
 ---
 ## Advanced Custom Fields(ACF)
-| Topic | Link |
-| ----------- | ----------- |
-| have_rows() | [source](https://www.advancedcustomfields.com/resources/have_rows/) |
+| Topic | Description | Link |
+| ----------- | ----------- | ----------- |
+| have_rows() | This function checks to see if a parent field (such as Repeater or Flexible Content) has any rows of data to loop over. | [source](https://www.advancedcustomfields.com/resources/have_rows/) |
 ---
 ## npm
 | Topic | Link |
