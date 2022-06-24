@@ -4,9 +4,9 @@
 ## Advanced Custom Fields(ACF)
 | Topic | Description | Link |
 | ----------- | ----------- | ----------- |
-| get_field() | Returns the value of a specific field. | [source](https://www.advancedcustomfields.com/resources/get_field/) |
-| get_sub_field() | Returns the value of a specific sub field value from a Repeater or Flexible Content field loop. | [source](https://www.advancedcustomfields.com/resources/get_sub_field/) |
-| have_rows() | This function checks to see if a parent field (such as Repeater or Flexible Content) has any rows of data to loop over. | [source](https://www.advancedcustomfields.com/resources/have_rows/) |
+| `get_field()`` | Returns the value of a specific field. | [source](https://www.advancedcustomfields.com/resources/get_field/) |
+| `get_sub_field()` | Returns the value of a specific sub field value from a Repeater or Flexible Content field loop. | [source](https://www.advancedcustomfields.com/resources/get_sub_field/) |
+| `have_rows()` | This function checks to see if a parent field (such as Repeater or Flexible Content) has any rows of data to loop over. | [source](https://www.advancedcustomfields.com/resources/have_rows/) |
 ---
 ## npm
 | Topic | Description | Link |
@@ -18,6 +18,6 @@
 ## PHP
 | Topic | Description | Link |
 | ----------- | ----------- | ----------- |
-| var_dump() | Dumps information about a variable. | [source](https://www.php.net/manual/en/function.var-dump.php) |
+| `var_dump()` | Dumps information about a variable. | [source](https://www.php.net/manual/en/function.var-dump.php) |
 | `<?= ?>` | Echo shorthand. | [source](https://softhunt.net/php-echo-shorthand-with-code-example/) |
 ---
