@@ -8,6 +8,11 @@
 | `get_sub_field()` | Returns the value of a specific sub field value from a Repeater or Flexible Content field loop. | [source](https://www.advancedcustomfields.com/resources/get_sub_field/) |
 | `have_rows()` | This function checks to see if a parent field (such as Repeater or Flexible Content) has any rows of data to loop over. | [source](https://www.advancedcustomfields.com/resources/have_rows/) |
 ---
+## CSS
+| Topic | Description | Link |
+| ----------- | ----------- | ----------- |
+| Offset jump links | Offset jump links hidden behind sticky header. | [source](https://getpublii.com/blog/one-line-css-solution-to-prevent-anchor-links-from-scrolling-behind-a-sticky-header.html) |
+---
 ## npm
 | Topic | Description | Link |
 | ----------- | ----------- | ----------- |
