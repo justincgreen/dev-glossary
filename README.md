@@ -13,6 +13,11 @@
 | ----------- | ----------- | ----------- |
 | Offset jump links | Offset jump links hidden behind sticky header with scroll-margin-top or scroll-padding-top. | [source](https://getpublii.com/blog/one-line-css-solution-to-prevent-anchor-links-from-scrolling-behind-a-sticky-header.html) |
 ---
+## JavaScript
+| Topic | Description | Link |
+| ----------- | ----------- | ----------- |
+| IntersectionObserver | Useful for animating elements into view on page scroll | [source](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) |
+---
 ## npm
 | Topic | Description | Link |
 | ----------- | ----------- | ----------- |
