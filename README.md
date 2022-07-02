@@ -21,7 +21,7 @@
 ## Next.js
 | Topic | Description | Link |
 | ----------- | ----------- | ----------- |
-| sass/scss | how to set up sass in your next.js project | [source](https://medium.com/nextjs/how-to-add-sass-scss-in-next-js-77a2b34f1ff3) |
+| sass/scss | how to set up sass in your next.js project | [source](https://www.w3schools.io/learn/nextjs-sass-scss/) |
 ---
 ## npm
 | Topic | Description | Link |
