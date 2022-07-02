@@ -18,6 +18,11 @@
 | ----------- | ----------- | ----------- |
 | IntersectionObserver | Useful for animating elements into view on page scroll | [source](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) |
 ---
+## Next.js
+| Topic | Description | Link |
+| ----------- | ----------- | ----------- |
+| Sass/scss | how to set up sass in your project | [source](https://medium.com/nextjs/how-to-add-sass-scss-in-next-js-77a2b34f1ff3) |
+---
 ## npm
 | Topic | Description | Link |
 | ----------- | ----------- | ----------- |
