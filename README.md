@@ -36,3 +36,8 @@
 | `var_dump()` | Dumps information about a variable. | [source](https://www.php.net/manual/en/function.var-dump.php) |
 | `<?= ?>` | Echo shorthand. | [source](https://softhunt.net/php-echo-shorthand-with-code-example/) |
 ---
+## Swiper
+| Topic | Description | Link |
+| ----------- | ----------- | ----------- |
+| API | Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps. | [source](https://swiperjs.com/swiper-api) |
+---
