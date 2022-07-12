@@ -39,5 +39,7 @@
 ## Swiper
 | Topic | Description | Link |
 | ----------- | ----------- | ----------- |
-| API | Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps. | [source](https://swiperjs.com/swiper-api) |
+| Landing page | Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps. | [source](https://swiperjs.com/) |
+| API | Documentation for the Swiper API. | [source](https://swiperjs.com/swiper-api) |
+| Demos | Various types of carousels. | [source](https://swiperjs.com/demos) |
 ---
