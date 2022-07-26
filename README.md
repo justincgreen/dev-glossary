@@ -44,3 +44,8 @@
 | API | Documentation for the Swiper API. | [source](https://swiperjs.com/swiper-api) |
 | Demos | Various types of carousels. | [source](https://swiperjs.com/demos) |
 ---
+## Wordpress
+| Topic | Description | Link |
+| ----------- | ----------- | ----------- |
+| Changing theme from database | Change theme from database when you can't reach the front end due to php errors | [source](https://www.bluehost.com/help/article/changing-wordpress-themes-from-the-database) |
+---
