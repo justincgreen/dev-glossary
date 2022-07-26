@@ -29,6 +29,7 @@
 | npm install | npm install downloads a package and it's dependencies. | [source](https://www.stackchief.com/tutorials/npm%20install%20%7C%20how%20it%20works) |
 | node_modules | Cache for the external modules that your project depends upon. | [source](https://stackoverflow.com/a/63294579) |
 | package.json & package.lock.json | Differences between package.json and package.lock.json and their needs in node js. | [source](https://www.geeksforgeeks.org/difference-between-package-json-and-package-lock-json-files/) |
+| nvm | Node Version Manager - switch between different versions of node | [source](https://blog.logrocket.com/how-switch-node-js-versions-nvm) |
 ---
 ## PHP
 | Topic | Description | Link |
